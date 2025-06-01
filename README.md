@@ -1,4 +1,4 @@
-# Live Link https://emi-calculater-ptv8.vercel.app/ 
+# Live Link- https://emi-calculater-1h51.vercel.app/ 
 # 📊 EMI Calculator
 
 The **EMI Calculator** is a simple, responsive web application that helps users calculate their monthly Equated Monthly Installment (EMI) for a loan based on the input **Loan Amount**, **Interest Rate**, and **Tenure** (in months).
